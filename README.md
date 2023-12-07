@@ -38,6 +38,8 @@ You will require Android Studio 3.4, Android NDK rev. 20 and Android SDK 8.1
 
 We moved all translations to https://translations.telegram.org/en/android/. Please use it.
 
+---
+
 ## Telegram Contest (Delete message UI 2023)
 
 ### Overview
@@ -56,4 +58,4 @@ This open-source software is a forked branch of the Telegram Android application
 
 ### Important ACKNOWLEDGEMENT & DISCLAIMER
 
-Special thanks to the Telegram Android contest community for inspiring and fostering the development of this exciting message delete animation feature. During the development of this feature, We drew inspiration from @tg's work, addressing several issues in the original code including but not limited to bulk message deletion issue, performance issues, animation motion, screen turning black when keyboard opens, etc.
+Special thanks to the Telegram Android contest community for inspiring and fostering the development of this exciting message delete animation feature. During the development of this feature, We drew inspiration from `@landarskiy`'s work, addressing several issues in the original code including but not limited to bulk message deletion issue, performance issues, animation motion, screen turning black when keyboard opens, etc.
